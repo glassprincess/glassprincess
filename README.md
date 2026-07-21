@@ -29,7 +29,7 @@
 ###
 
 <p align="center">
-  <code>Discord: probypasser</code>
+  <code>Discord: rewakura</code>
 </p>
 
 ###
