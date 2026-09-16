@@ -29,7 +29,7 @@
 ###
 
 <p align="center">
-  <code>Discord: rewakura</code>
+  <code>Discord: .vunarable</code>
 </p>
 
 ###
