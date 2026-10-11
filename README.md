@@ -37,7 +37,7 @@
 ###
 
 <p align="center">
-  <code>Discord: .vunarable</code>
+  <code>Discord: .dllnet</code>
 </p>
 
 ###
