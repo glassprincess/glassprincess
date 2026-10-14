@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/LainForYou/gif/blob/main/lain-serial-experiments-lain%20(2).gif" alt="Lain" />
-</div>
-
 <h1 align="center"> Glass Princess </h1>
 
 ###
@@ -48,7 +44,3 @@
 
 ###
 ###
-
-<p align="center">
-  <img src="https://github.com/LainForYou/gif/blob/main/arch-i-use-arch-btw.gif" alt="I use Arch BTW">
-</p>
