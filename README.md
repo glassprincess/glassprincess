@@ -11,7 +11,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django ogo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
 </div>
 
 ###
