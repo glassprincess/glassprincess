@@ -2,7 +2,7 @@
   "version": 1,
   "login": "glassprincess",
   "seed": "#B9765C",
-  "seedFromAvatar": true,
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
@@ -21,17 +21,17 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I build qol tools and interesting programs",
+    "subtitle": "Buils fast, client-side apps with clean Ui.",
     "typing": true,
     "avatarShape": "flower",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Earth"
+        "label": "Greece, Athens"
       },
       {
         "icon": "code",
-        "label": "TypeScript · Rust · C# · C++"
+        "label": "C# · C++ · Rust"
       }
     ]
   },
@@ -44,11 +44,11 @@
       },
       {
         "icon": "code",
-        "label": "Mostly frontend"
+        "label": "Game modding, hooking, decompile"
       },
       {
-        "icon": "terminal",
-        "label": "Love forensics"
+        "icon": "palette",
+        "label": "UI, UX, Web Design,CJM, Wireframing"
       }
     ]
   },
@@ -59,18 +59,6 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
-          },
-          {
-            "icon": "brand:python",
-            "label": "Python"
-          },
-          {
-            "icon": "brand:rust",
-            "label": "Rust"
-          },
-          {
             "icon": "brand:dotnet",
             "label": "C#"
           },
@@ -79,8 +67,28 @@
             "label": "C++"
           },
           {
-            "icon": "brand:lua",
-            "label": "Lua"
+            "icon": "brand:nodedotjs",
+            "label": "JS"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
           }
         ]
       },
@@ -96,21 +104,44 @@
             "label": "Figma"
           },
           {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:vite",
+            "label": "Vite"
           },
           {
-            "icon": "brand:lightburn",
-            "label": "Ghidra"
+            "icon": "brand:cmake",
+            "label": "CMake"
+          },
+          {
+            "icon": "brand:pnpm",
+            "label": "Pnpm"
+          },
+          {
+            "icon": "brand:gradle",
+            "label": "Gradle"
           }
         ]
       }
     ]
   },
   "projects": {
-    "source": "pinned",
-    "repos": [],
-    "overrides": {},
+    "source": "manual",
+    "repos": [
+      "OmniLooked",
+      "Sieve",
+      "nonstop",
+      "RSSstringsADDer"
+    ],
+    "overrides": {
+      "OmniLooked": {
+        "text": "Просмотр любых документов в своем браузере, ClientSide, без запросов."
+      },
+      "Sieve": {
+        "text": "CheatEngine UX, Инспектирование и подменна данных в любых процессах."
+      },
+      "RSSstringsADDer": {
+        "text": "Добавление строковых данных в Java процесс Minecraft для розыгрышей SS комьюнити."
+      }
+    },
     "empty": "No description yet.",
     "fork": "Fork"
   },
@@ -140,10 +171,14 @@
       {
         "icon": "brand:discord",
         "url": "https://discord.com/dll.net"
+      },
+      {
+        "icon": "brand:youtubemusic",
+        "url": "https://music.youtube.com/@lainforyou"
       }
     ],
-    "variant": "chip",
-    "fill": "filled",
+    "variant": "icon",
+    "fill": "outlined",
     "card": true
   },
   "buttons": {
