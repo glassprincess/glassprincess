@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "glassprincess",
-  "seed": "#C29476",
+  "seed": "#B9765C",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -135,19 +135,15 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "url": "https://t.me/dotnetdotcom"
       },
       {
         "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://discord.com/dll.net"
       }
     ],
     "variant": "chip",
-    "fill": "tonal",
+    "fill": "filled",
     "card": true
   },
   "buttons": {
