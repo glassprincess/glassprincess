@@ -1,8 +1,8 @@
 {
- "key": "9bd0fe43",
- "stars": 4,
- "contributions": 88,
- "repos": 14,
+ "key": "4cb0eadc",
+ "stars": 5,
+ "contributions": 89,
+ "repos": 15,
  "followers": 1,
  "languages": [
   [
@@ -23,15 +23,15 @@
   ],
   [
    "Rust",
-   44938
+   70615
+  ],
+  [
+   "JavaScript",
+   64663
   ],
   [
    "CSS",
-   23537
-  ],
-  [
-   "Java",
-   8430
+   24452
   ]
  ],
  "days": [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 23,
     "today": true
    },
@@ -144,7 +144,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 4
  },
  "pins": [
@@ -174,9 +174,45 @@
    "stars": 0,
    "language": "Lua",
    "topics": []
+  },
+  {
+   "name": "FisherExtension",
+   "url": "https://github.com/glassprincess/FisherExtension",
+   "text": "Stockfish hint overlay for chess.com bot games - Firefox/Zen on Windows. Prebuilt bridge and engine included. Use only where allowed.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "chess",
+    "chess-com",
+    "firefox-extension",
+    "native-messaging",
+    "rust",
+    "stockfish",
+    "webextension",
+    "windows"
+   ]
   }
  ],
  "all": [
+  {
+   "name": "FisherExtension",
+   "url": "https://github.com/glassprincess/FisherExtension",
+   "text": "Stockfish hint overlay for chess.com bot games - Firefox/Zen on Windows. Prebuilt bridge and engine included. Use only where allowed.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "chess",
+    "chess-com",
+    "firefox-extension",
+    "native-messaging",
+    "rust",
+    "stockfish",
+    "webextension",
+    "windows"
+   ]
+  },
   {
    "name": "tty3d",
    "url": "https://github.com/glassprincess/tty3d",
