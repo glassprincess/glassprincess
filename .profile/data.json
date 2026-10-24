@@ -1,9 +1,9 @@
 {
- "key": "aae2da19",
- "stars": 5,
+ "key": "b5a123aa",
+ "stars": 6,
  "contributions": 90,
  "repos": 15,
- "followers": 1,
+ "followers": 2,
  "languages": [
   [
    "Lua",
@@ -184,7 +184,7 @@
    "url": "https://github.com/glassprincess/FisherExtension",
    "text": "Stockfish hint overlay for chess.com bot games - Firefox/Zen on Windows. Prebuilt bridge and engine included. Use only where allowed.",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "JavaScript",
    "topics": [
     "chess",
@@ -204,7 +204,7 @@
    "url": "https://github.com/glassprincess/FisherExtension",
    "text": "Stockfish hint overlay for chess.com bot games - Firefox/Zen on Windows. Prebuilt bridge and engine included. Use only where allowed.",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "JavaScript",
    "topics": [
     "chess",
