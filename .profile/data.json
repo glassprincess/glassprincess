@@ -1,14 +1,10 @@
 {
- "key": "63370d86",
+ "key": "681c1388",
  "stars": 6,
- "contributions": 90,
- "repos": 15,
+ "contributions": 86,
+ "repos": 14,
  "followers": 2,
  "languages": [
-  [
-   "Lua",
-   3212064
-  ],
   [
    "C++",
    260238
@@ -32,6 +28,10 @@
   [
    "CSS",
    24452
+  ],
+  [
+   "Lua",
+   11656
   ]
  ],
  "days": [
@@ -171,15 +171,6 @@
    "topics": []
   },
   {
-   "name": "apc-deepwoken-init",
-   "url": "https://github.com/glassprincess/apc-deepwoken-init",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Lua",
-   "topics": []
-  },
-  {
    "name": "FisherExtension",
    "url": "https://github.com/glassprincess/FisherExtension",
    "text": "Stockfish hint overlay for chess.com bot games - Firefox/Zen on Windows. Prebuilt bridge and engine included. Use only where allowed.",
@@ -269,15 +260,6 @@
    "fork": false,
    "stars": 0,
    "language": "C++",
-   "topics": []
-  },
-  {
-   "name": "apc-deepwoken-init",
-   "url": "https://github.com/glassprincess/apc-deepwoken-init",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Lua",
    "topics": []
   },
   {
