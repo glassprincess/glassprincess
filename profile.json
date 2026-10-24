@@ -1,9 +1,9 @@
 {
   "version": 1,
   "login": "glassprincess",
-  "seed": "#B9765C",
+  "seed": "#210063",
   "seedFromAvatar": false,
-  "scheme": "tonalSpot",
+  "scheme": "fidelity",
   "motion": true,
   "iconFill": true,
   "order": [
@@ -23,7 +23,7 @@
     "name": "",
     "subtitle": "Buils fast, client-side apps with clean Ui.",
     "typing": true,
-    "avatarShape": "flower",
+    "avatarShape": "soft",
     "chips": [
       {
         "icon": "location_on",
@@ -128,8 +128,8 @@
     "repos": [
       "OmniLooked",
       "Sieve",
-      "nonstop",
-      "RSSstringsADDer"
+      "RSSstringsADDer",
+      "FisherExtension"
     ],
     "overrides": {
       "OmniLooked": {
