@@ -1,7 +1,7 @@
 {
- "key": "7367afa9",
+ "key": "2b721089",
  "stars": 6,
- "contributions": 87,
+ "contributions": 92,
  "repos": 14,
  "followers": 2,
  "languages": [
@@ -18,12 +18,12 @@
    190220
   ],
   [
-   "Rust",
-   70615
+   "JavaScript",
+   112363
   ],
   [
-   "JavaScript",
-   64663
+   "Rust",
+   73765
   ],
   [
    "CSS",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 1,
+    "c": 6,
     "day": 25,
     "today": true
    },
