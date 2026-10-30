@@ -1,5 +1,5 @@
 {
- "key": "d770ca21",
+ "key": "3db4a3cb",
  "stars": 6,
  "contributions": 93,
  "repos": 14,
@@ -133,9 +133,13 @@
    {
     "c": 0,
     "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
     "today": true
    },
-   null,
    null
   ]
  ],
