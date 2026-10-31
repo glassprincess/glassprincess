@@ -1,10 +1,14 @@
 {
- "key": "28c7000a",
+ "key": "c1caa26f",
  "stars": 6,
- "contributions": 94,
+ "contributions": 99,
  "repos": 15,
  "followers": 3,
  "languages": [
+  [
+   "Rust",
+   318067
+  ],
   [
    "C++",
    260238
@@ -14,16 +18,12 @@
    225507
   ],
   [
-   "C#",
-   190220
-  ],
-  [
    "JavaScript",
    112363
   ],
   [
-   "Rust",
-   73765
+   "C#",
+   64275
   ],
   [
    "CSS",
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 6,
     "day": 31,
     "today": true
    }
@@ -223,7 +223,7 @@
    "text": "ScreenShare RSS Tool",
    "fork": false,
    "stars": 1,
-   "language": "C#",
+   "language": "Rust",
    "topics": []
   },
   {
@@ -310,10 +310,10 @@
   {
    "name": "DoomsdayDetector3000",
    "url": "https://github.com/glassprincess/DoomsdayDetector3000",
-   "text": "detect doomsday ghost client (bypassers TOO) WIA SECONDS LMAO",
+   "text": "Scans javaw.exe for Doomsday signatures and class-name patterns",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "Rust",
    "topics": []
   },
   {
