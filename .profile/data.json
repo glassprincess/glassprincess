@@ -1,8 +1,8 @@
 {
- "key": "bbc33d72",
+ "key": "718cdc41",
  "stars": 6,
- "contributions": 102,
- "repos": 16,
+ "contributions": 98,
+ "repos": 15,
  "followers": 3,
  "languages": [
   [
@@ -14,24 +14,24 @@
    260238
   ],
   [
-   "TypeScript",
-   225507
-  ],
-  [
    "JavaScript",
-   112363
+   110832
   ],
   [
    "C#",
    64275
   ],
   [
-   "CSS",
-   24452
-  ],
-  [
    "Lua",
    11656
+  ],
+  [
+   "Python",
+   8427
+  ],
+  [
+   "CMake",
+   3781
   ]
  ],
  "days": [
@@ -146,15 +146,6 @@
    "topics": []
   },
   {
-   "name": "OmniLooked",
-   "url": "https://github.com/glassprincess/OmniLooked",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
-   "topics": []
-  },
-  {
    "name": "FisherExtension",
    "url": "https://github.com/glassprincess/FisherExtension",
    "text": "Stockfish hint overlay for chess.com bot games - Firefox/Zen on Windows. Prebuilt bridge and engine included. Use only where allowed.",
@@ -262,15 +253,6 @@
    "fork": false,
    "stars": 0,
    "language": "C++",
-   "topics": []
-  },
-  {
-   "name": "OmniLooked",
-   "url": "https://github.com/glassprincess/OmniLooked",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
    "topics": []
   },
   {
