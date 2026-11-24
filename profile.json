@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "login": "glassprincess",
+  "seed": "#FF5CA8",
+  "seedFromAvatar": false,
+  "scheme": "vibrant",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "projects",
+    "stack",
+    "wave",
+    "buttons",
+    "about",
+    "stats",
+    "streak"
+  ],
+  "hidden": [
+    "about",
+    "stats",
+    "streak"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "I build interfaces and small useful tools.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Internathional"
+      },
+      {
+        "icon": "terminal",
+        "label": "Rendering myself"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Dev and CEO of nothing"
+      },
+      {
+        "icon": "code",
+        "label": "Reverse, hooking, decompile, etc"
+      },
+      {
+        "icon": "palette",
+        "label": "UI, UX"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Programming Languages",
+        "items": [
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:dotnet",
+            "label": "C#"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JS"
+          }
+        ]
+      },
+      {
+        "title": "main tools",
+        "items": [
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "NodeJs"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux BOSS"
+          },
+          {
+            "icon": "brand:cmake",
+            "label": "CMake"
+          },
+          {
+            "icon": "brand:dotnet",
+            "label": "DotNET"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/rwxmemory"
+      },
+      {
+        "icon": "brand:kofi",
+        "url": "https://ko-fi.com/cutemabel"
+      },
+      {
+        "icon": "brand:youtubemusic",
+        "url": "https://music.youtube.com/@LainForYou"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
