@@ -6,6 +6,8 @@
 
 <a href="https://github.com/glassprincess/tty3d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tty3d-dark.svg"><img src="assets/project-tty3d-light.svg" width="49%" alt="tty3d"></picture></a>&nbsp;<a href="https://github.com/glassprincess/FisherExtension"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fisherextension-dark.svg"><img src="assets/project-fisherextension-light.svg" width="49%" alt="FisherExtension"></picture></a>
 
+<a href="https://github.com/glassprincess/CaissaChess"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-caissachess-dark.svg"><img src="assets/project-caissachess-light.svg" width="49%" alt="CaissaChess"></picture></a>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
