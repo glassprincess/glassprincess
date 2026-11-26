@@ -1,13 +1,13 @@
 {
- "key": "61f45d9",
- "stars": 5,
- "contributions": 76,
+ "key": "e8f844fd",
+ "stars": 6,
+ "contributions": 78,
  "repos": 11,
  "followers": 3,
  "languages": [
   [
    "JavaScript",
-   447350
+   508055
   ],
   [
    "Rust",
@@ -19,15 +19,15 @@
   ],
   [
    "CSS",
-   29003
+   31211
   ],
   [
    "Kotlin",
-   21885
+   22037
   ],
   [
    "HTML",
-   17581
+   17768
   ],
   [
    "Python",
@@ -126,11 +126,15 @@
     "today": false
    },
    {
-    "c": 7,
+    "c": 9,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null
   ]
@@ -141,15 +145,6 @@
  },
  "pins": [
   {
-   "name": "tty3d",
-   "url": "https://github.com/glassprincess/tty3d",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "C++",
-   "topics": []
-  },
-  {
    "name": "FisherExtension",
    "url": "https://github.com/glassprincess/FisherExtension",
    "text": "Stockfish hint overlay for chess.com bot games - Firefox/Zen on Windows. Prebuilt bridge and engine included. Use only where allowed.",
@@ -172,13 +167,22 @@
    "url": "https://github.com/glassprincess/CaissaChess",
    "text": "Офлайн-шахматы для Android со Stockfish: игра с ботами, разбор PGN и дебюты с пояснениями. RU / EN.",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "JavaScript",
    "topics": []
   }
  ],
  "all": [
   {
+   "name": "CaissaChess",
+   "url": "https://github.com/glassprincess/CaissaChess",
+   "text": "Офлайн-шахматы для Android со Stockfish: игра с ботами, разбор PGN и дебюты с пояснениями. RU / EN.",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
    "name": "FisherExtension",
    "url": "https://github.com/glassprincess/FisherExtension",
    "text": "Stockfish hint overlay for chess.com bot games - Firefox/Zen on Windows. Prebuilt bridge and engine included. Use only where allowed.",
@@ -195,15 +199,6 @@
     "webextension",
     "windows"
    ]
-  },
-  {
-   "name": "CaissaChess",
-   "url": "https://github.com/glassprincess/CaissaChess",
-   "text": "Офлайн-шахматы для Android со Stockfish: игра с ботами, разбор PGN и дебюты с пояснениями. RU / EN.",
-   "fork": false,
-   "stars": 1,
-   "language": "JavaScript",
-   "topics": []
   },
   {
    "name": "tty3d",
