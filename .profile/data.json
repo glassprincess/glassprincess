@@ -1,13 +1,13 @@
 {
- "key": "cfdc33dc",
+ "key": "91c27457",
  "stars": 6,
- "contributions": 88,
- "repos": 12,
+ "contributions": 94,
+ "repos": 13,
  "followers": 3,
  "languages": [
   [
    "JavaScript",
-   536426
+   541033
   ],
   [
    "Rust",
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 8,
     "day": 27,
     "today": true
    },
@@ -149,30 +149,21 @@
  },
  "pins": [
   {
-   "name": "FisherExtension",
-   "url": "https://github.com/glassprincess/FisherExtension",
-   "text": "Stockfish hint overlay for chess.com bot games - Firefox/Zen on Windows. Prebuilt bridge and engine included. Use only where allowed.",
-   "fork": false,
-   "stars": 2,
-   "language": "JavaScript",
-   "topics": [
-    "chess",
-    "chess-com",
-    "firefox-extension",
-    "native-messaging",
-    "rust",
-    "stockfish",
-    "webextension",
-    "windows"
-   ]
-  },
-  {
    "name": "CaissaChess",
    "url": "https://github.com/glassprincess/CaissaChess",
    "text": "Офлайн-шахматы для Android со Stockfish: игра с ботами, разбор PGN и дебюты с пояснениями. RU / EN.",
    "fork": false,
    "stars": 2,
    "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "STOPtelemetry",
+   "url": "https://github.com/glassprincess/STOPtelemetry",
+   "text": "Reversible Windows telemetry controls with audit, backup and restore. PowerShell 5.1 / 7.",
+   "fork": false,
+   "stars": 0,
+   "language": "PowerShell",
    "topics": []
   }
  ],
@@ -220,6 +211,15 @@
    "fork": false,
    "stars": 1,
    "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "STOPtelemetry",
+   "url": "https://github.com/glassprincess/STOPtelemetry",
+   "text": "Reversible Windows telemetry controls with audit, backup and restore. PowerShell 5.1 / 7.",
+   "fork": false,
+   "stars": 0,
+   "language": "PowerShell",
    "topics": []
   },
   {
