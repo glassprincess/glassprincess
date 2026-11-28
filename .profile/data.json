@@ -1,8 +1,8 @@
 {
- "key": "4d3e1775",
- "stars": 6,
- "contributions": 99,
- "repos": 13,
+ "key": "857e67d4",
+ "stars": 7,
+ "contributions": 106,
+ "repos": 14,
  "followers": 3,
  "languages": [
   [
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 5,
+    "c": 12,
     "day": 28,
     "today": true
    }
@@ -166,7 +166,7 @@
    "url": "https://github.com/glassprincess/STOPtelemetry",
    "text": "Reversible Windows telemetry controls with audit, backup and restore. PowerShell 5.1 / 7.",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "PowerShell",
    "topics": []
   }
@@ -200,6 +200,15 @@
    ]
   },
   {
+   "name": "STOPtelemetry",
+   "url": "https://github.com/glassprincess/STOPtelemetry",
+   "text": "Reversible Windows telemetry controls with audit, backup and restore. PowerShell 5.1 / 7.",
+   "fork": false,
+   "stars": 1,
+   "language": "PowerShell",
+   "topics": []
+  },
+  {
    "name": "tty3d",
    "url": "https://github.com/glassprincess/tty3d",
    "text": "",
@@ -218,9 +227,9 @@
    "topics": []
   },
   {
-   "name": "STOPtelemetry",
-   "url": "https://github.com/glassprincess/STOPtelemetry",
-   "text": "Reversible Windows telemetry controls with audit, backup and restore. PowerShell 5.1 / 7.",
+   "name": "BloatBEGONE",
+   "url": "https://github.com/glassprincess/BloatBEGONE",
+   "text": "Remove optional Windows apps with exact package selection, backups and a PowerShell console menu",
    "fork": false,
    "stars": 0,
    "language": "PowerShell",
